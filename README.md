@@ -5,12 +5,12 @@ Full Stack CRUD Application for Employee Management System built with Spring Boo
 ![Animation](https://user-images.githubusercontent.com/100275369/195008305-22168bae-747a-43f1-b045-affac4a1ebb7.gif)
 
 ## 👇 Prerequisites :
-Please make sure you have installed following tools before contributing or using this project:         
-Java 11 <img src="https://emojis.slackmojis.com/emojis/images/1643515002/10313/java-logo.png?1643515002" width="20"></img>          
-Git <img src="https://emojis.slackmojis.com/emojis/images/1643514760/7685/git.png?1643514760" width="20"></img>                             
-NodeJS <img src="https://emojis.slackmojis.com/emojis/images/1643514460/4425/nodejs.png?1643514460" width="20"></img>        
-MySQL <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="20"></img>       
-STS IDE ✏️              
+##### Please make sure you have installed following tools before contributing or using this project:         
+#### 1. Java 11 <img src="https://emojis.slackmojis.com/emojis/images/1643515002/10313/java-logo.png?1643515002" width="20"></img>          
+#### 2. Git <img src="https://emojis.slackmojis.com/emojis/images/1643514760/7685/git.png?1643514760" width="20"></img>                             
+#### 3. NodeJS <img src="https://emojis.slackmojis.com/emojis/images/1643514460/4425/nodejs.png?1643514460" width="20"></img>        
+#### 4. MySQL <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="20"></img>       
+#### 5. STS IDE ✏️              
 
 ## 🛠️ Installation Steps :
 ### Download / Clone Repository

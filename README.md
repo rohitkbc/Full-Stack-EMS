@@ -1,6 +1,9 @@
 ## 📌 About :
 A Full Stack CRUD Application for Employees Management System built with Spring Boot <img src="https://emojis.slackmojis.com/emojis/images/1643515009/10387/spring-boot.png?1643515009" width="20"></img>, ReactJS <img src="https://emojis.slackmojis.com/emojis/images/1643514155/1161/react.png?1643514155" width="20"></img> and MySQL <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="30"></img>
 
+## 📸 Preview
+![Animation](https://user-images.githubusercontent.com/100275369/195008305-22168bae-747a-43f1-b045-affac4a1ebb7.gif)
+
 ## 👇 Prerequisites :
 Please make sure you have installed following tools before contributing or using this project:         
 Java 11 <img src="https://emojis.slackmojis.com/emojis/images/1643515002/10313/java-logo.png?1643515002" width="20"></img>          
@@ -34,8 +37,6 @@ npm install
 npm start    
 # After few seconds, default browser will open with running your FrontEnd.    
 ~~~
-## 📸 Preview
-![Animation](https://user-images.githubusercontent.com/100275369/195008305-22168bae-747a-43f1-b045-affac4a1ebb7.gif)
 
 ## 👇 Read This
 #### Contribution is always welcome 😊

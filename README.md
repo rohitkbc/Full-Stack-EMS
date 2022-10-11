@@ -1,5 +1,6 @@
-## Clone Project
-### FOR BackEnd
+## 🛠️ Installation Steps :
+### Download / Clone Repository
+### 🗄️ FOR BackEnd
 Open STS Eclipse Application           
 Import "Employee Management System" as a Maven Project      
 
@@ -13,7 +14,7 @@ In MySQL, Create a database => ems
   
 In STS, right click on Project "Employee Management System" => Run As => Spring Boot App       
 Your backend is now running      
-### FOR FrontEnd
+### 💻 FOR FrontEnd
 ~~~
 cd Full-Stack-EMS
 cd FrontEnd
@@ -22,3 +23,13 @@ npm install
 npm start    
 # After few seconds, default browser will open with running your FrontEnd.    
 ~~~
+## 📸 Preview
+![Animation](https://user-images.githubusercontent.com/100275369/195008305-22168bae-747a-43f1-b045-affac4a1ebb7.gif)
+
+## 👇 Read This
+#### Contribution is always welcome 😊
+
+#### Feel free to use, edit ✏️
+
+## 🛡️ License
+This Project is licensed under the MIT License - see the LICENSE file for details

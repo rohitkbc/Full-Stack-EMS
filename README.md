@@ -1,5 +1,5 @@
 ## 📌 About :
-Full Stack CRUD Application for Employee Management System built with Spring Boot <img src="https://emojis.slackmojis.com/emojis/images/1643515009/10387/spring-boot.png?1643515009" width="20"></img>, ReactJS <img src="https://emojis.slackmojis.com/emojis/images/1643514155/1161/react.png?1643514155" width="20"></img> and MySQL <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="30"></img>
+Full Stack CRUD Application for Employee Management System built with Spring Boot <img src="https://emojis.slackmojis.com/emojis/images/1643515009/10387/spring-boot.png?1643515009" width="20"></img>, ReactJS <img src="https://emojis.slackmojis.com/emojis/images/1643514155/1161/react.png?1643514155" width="20"></img> and MySQL <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="25"></img>
 
 ## 📸 Preview
 ![Animation](https://user-images.githubusercontent.com/100275369/195008305-22168bae-747a-43f1-b045-affac4a1ebb7.gif)

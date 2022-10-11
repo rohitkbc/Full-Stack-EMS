@@ -1,5 +1,5 @@
 ## 📌 About
-A Full Stack CRUD Application for Employees Management System built with Spring Boot, ReactJS and MySQL
+A Full Stack CRUD Application for Employees Management System built with Spring Boot <img src="https://emojis.slackmojis.com/emojis/images/1643515009/10387/spring-boot.png?1643515009" width="20"></img>, ReactJS <img src="https://emojis.slackmojis.com/emojis/images/1643514155/1161/react.png?1643514155" width="20"></img> and MySQL <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="30"></img>
 
 ## 🛠️ Installation Steps :
 ### Download / Clone Repository

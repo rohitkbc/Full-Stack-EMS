@@ -1,5 +1,13 @@
-## 📌 About
+## 📌 About :
 A Full Stack CRUD Application for Employees Management System built with Spring Boot <img src="https://emojis.slackmojis.com/emojis/images/1643515009/10387/spring-boot.png?1643515009" width="20"></img>, ReactJS <img src="https://emojis.slackmojis.com/emojis/images/1643514155/1161/react.png?1643514155" width="20"></img> and MySQL <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="30"></img>
+
+## 👇 Prerequisites :
+Please make sure you have installed following tools before contributing or using this project:         
+Java 11 <img src="https://emojis.slackmojis.com/emojis/images/1643515002/10313/java-logo.png?1643515002" width="20"></img>          
+Git <img src="https://emojis.slackmojis.com/emojis/images/1643514760/7685/git.png?1643514760" width="20"></img>                             
+NodeJS <img src="https://emojis.slackmojis.com/emojis/images/1643514460/4425/nodejs.png?1643514460" width="20"></img>        
+MySQL <img src="https://emojis.slackmojis.com/emojis/images/1643514462/4439/mysql.png?1643514462" width="20"></img>       
+STS IDE ✏️              
 
 ## 🛠️ Installation Steps :
 ### Download / Clone Repository

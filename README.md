@@ -1,3 +1,6 @@
+## 📌 About
+A Full Stack CRUD Application for Employees Management System built with Spring Boot, ReactJS and MySQL
+
 ## 🛠️ Installation Steps :
 ### Download / Clone Repository
 ### 🗄️ FOR BackEnd
